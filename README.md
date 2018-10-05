@@ -8,3 +8,11 @@ This example includes:
   - `Libertine.ttf`: Libertine font found in [`Libertine fonts`](http://libertine-fonts.org/).
   - `Libertine_bold.ttf`: Libertine font found in [`Libertine fonts`](http://libertine-fonts.org/).
   - `Libertine_italic.ttf`: Libertine font found in [`Libertine fonts`](http://libertine-fonts.org/).
+
+# Requirements
+As this model uses a different font called [`Libertine`](http://libertine-fonts.org/), XeLaTeX is needed. :)
+
+To install in Linux, run the following command: 
+```
+sudo apt-get install texlive-xetex
+```
